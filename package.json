@@ -37,7 +37,7 @@
     "database"
   ],
   "dependencies": {
-    "@cashfarm/lang": "^0.6.3",
+    "@cashfarm/lang": "https://github.com/herlon214/lang/tarball/master",
     "debug": "^2.2.0",
     "inversify": "4.5.2",
     "lodash": "^4.17.4",
